@@ -1,5 +1,4 @@
 # Tgs6_PCD_Citra_F1G124005
-# Signature Presence Detection
 
 Mini Project Pengolahan Citra Digital untuk mendeteksi keberadaan tanda tangan Dekan pada citra ijazah.
 
