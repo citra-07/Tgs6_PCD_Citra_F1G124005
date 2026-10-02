@@ -58,4 +58,9 @@ Tgs_PCD_Citra_F1G124005/
     ├── hasil_threshold.csv
     └── hasil_pengujian.csv
 
+##Cara Jalan Program
+Instal dependensi
+pip install -r requirements.txt
+trus jalankan
+python main.py
 
